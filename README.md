@@ -37,7 +37,7 @@
 
 <img align="left" alt="EetuPe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EetuPe&show_icons=true&hide_border=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EetuPe&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [project]: https://github.com/EetuPe/produni
 [twitter]: https://twitter.com/EPetanen
