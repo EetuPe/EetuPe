@@ -33,6 +33,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="EetuPe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EetuPe&show_icons=true&hide_border=true">
+
 [project]: https://github.com/EetuPe/produni
 [twitter]: https://twitter.com/EPetanen
 [instagram]: https://www.instagram.com/eetu.petanen
