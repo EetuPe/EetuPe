@@ -1,4 +1,4 @@
-### Hi there, I'm Eetu
+### Hi there👋, I'm Eetu
 
 ## I'm a Student and a Developer!
 
