@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on [Produni][project]!
 - 🌱 I'm currently learning React
-- 🥅 2022 Goals: Get a good understanding of MERN stack
+- 🥅 2023 Goals: Get a good understanding of MERN stack
 - ⚡ Fun fact: I've lived in Ireland
 
 ### Connect with me:
