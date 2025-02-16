@@ -7,7 +7,7 @@
 - 🥅 2025 Goals: Get a deeper understanding of NextJS
 - ⚡ Fun fact: I've lived in Ireland
 
-<h3 align="left">Checkout my website: [petanen.com][petanen]</h3>
+<h3 align="left">Checkout my website: <a href="https://petanen.com" target="_blank">petanen.com</a></h3>
 <h3 align="left">Connect with me:</h3>
 
 ###
@@ -70,6 +70,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EetuPe&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [project]: https://github.com/EetuPe/produni
-[petanen]: https://petanen.com
 [twitter]: https://twitter.com/EPetanen
 [instagram]: https://www.instagram.com/eetu.petanen
