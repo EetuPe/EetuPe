@@ -1,5 +1,5 @@
-<h1 align="left">Hi there👋, I'm Eetu</h1>
-<h3 align="left">I'm a Student and a Developer!</h3>
+# Hi there👋, I'm Eetu
+### I'm a Student and a Developer!
 
 ###
 
@@ -11,27 +11,26 @@
 
 - ⚡ Fun fact **I've lived in Ireland**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/eetu-petanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eetu-petanen" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23efdb4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2358c3e1.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/html-%23e44d25.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%2340a4b3.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-%235cac46.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23439934.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-%234483b4.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23659ad2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23ef3c2e.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ### GitHub Stats
 
