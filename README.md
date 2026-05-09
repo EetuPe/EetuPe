@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🥅 2025 Goals **Get a deeper understanding of NextJS**
+- 🥅 2026 Goals **Get a deeper understanding of NextJS**
 
 - ⚡ Fun fact **I've lived in Ireland**
 
