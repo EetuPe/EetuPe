@@ -19,12 +19,12 @@
 
 ### Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23efdb4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23efdb4f.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2358c3e1.svg?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-%2358c3e1.svg?style=for-the-badge&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23e44d25.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-%2340a4b3.svg?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![CSS](https://img.shields.io/badge/css-%231572b6.svg?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%2340a4b3.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%235cac46.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23439934.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%234483b4.svg?style=for-the-badge&logo=python&logoColor=white)
