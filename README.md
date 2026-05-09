@@ -58,8 +58,6 @@
   </a>
 </p>
 
-###
+### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eetupe&show_icons=true&locale=en&layout=compact" alt="eetupe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eetupe&show_icons=true&locale=en" alt="eetupe" /></p>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
