@@ -3,7 +3,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Produni](https://github.com/EetuPe/produni)
+- 🔭 I’m currently working on [Produni](https://github.com/EetuPe/produni1.1)
 
 - 🌱 I’m currently learning **React**
 
