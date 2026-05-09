@@ -9,14 +9,6 @@
 
 - 🥅 2026 Goals **Get a deeper understanding of NextJS**
 
-- ⚡ Fun fact **I've lived in Ireland**
-
-### Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/eetu-petanen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eetu-petanen" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23efdb4f.svg?style=for-the-badge&logo=javascript&logoColor=white)
